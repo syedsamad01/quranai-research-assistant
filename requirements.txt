@@ -1,0 +1,9 @@
+streamlit>=1.40,<2.0
+requests>=2.31
+python-dotenv>=1.0
+google-genai>=1.0.0
+sentence-transformers>=3.0,<6.0
+numpy>=1.26
+streamlit-mic-recorder>=0.0.8
+faster-whisper>=1.1,<2.0
+piper-tts>=1.2,<2.0
